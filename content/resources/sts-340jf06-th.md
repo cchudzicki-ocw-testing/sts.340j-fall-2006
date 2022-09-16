@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/05dee3bb87128c57759b24080c43932b_sts-340jf06-th.jpg
+file: /media/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/05dee3bb87128c57759b24080c43932b_sts-340jf06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: View on deck of the USS Monitor looking forward on the starboard side,
@@ -10,8 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Several people standing next to gun turret of USS Monitor.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-340jf06-th.jpg
 uid: 05dee3bb-8712-8c57-759b-24080c43932b
 ---
+New image Upload

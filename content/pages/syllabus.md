@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview of the course description,assignments,grading
+  policy and readings and calendar for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

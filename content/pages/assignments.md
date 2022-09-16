@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains 6 complete set of student works as an example to
+  understand course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
